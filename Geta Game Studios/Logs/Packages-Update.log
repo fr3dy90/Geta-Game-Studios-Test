@@ -43,3 +43,16 @@ The following packages were added:
   com.unity.textmeshpro@2.0.1
   com.unity.timeline@1.2.14
   com.unity.ugui@1.0.0
+
+=== Tue Jul  7 09:08:58 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.barracuda@0.5.0-preview
+  com.unity.cinemachine@2.5.0
+  com.unity.connect.share@1.2.0-preview.1
+  com.unity.learn.iet-framework@0.3.0-preview.5
+  com.unity.postprocessing@2.3.0
+  com.unity.probuilder@4.2.3
